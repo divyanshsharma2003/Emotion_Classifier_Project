@@ -4,6 +4,13 @@ A simple machine learning model that classifies input text into emotions like **
 
 ---
 
+## 🚀 Live Demo
+
+Try out the emotion classification app hosted on Hugging Face Spaces:
+
+🔗 **[Live App Link](https://huggingface.co/spaces/hug-divyansh06/emotion-classifier)**
+
+
 ## 📂 Dataset Used
 
 This project uses the [Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp) created by **Praveen**.
