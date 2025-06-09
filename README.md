@@ -33,7 +33,7 @@ This project uses the [Emotions Dataset for NLP](https://www.kaggle.com/datasets
 
 ### 📊 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.PNG)
 
 ---
 ## 📦 Dependencies
