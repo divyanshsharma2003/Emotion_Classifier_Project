@@ -1,4 +1,4 @@
-# Emotion Text Classifier {Created By - [Divyansh Sharma](https://www.linkedin.com/in/divyansh-sharma-b4793026b/)}
+# Emotion Text Classifier {Trained By - [Divyansh Sharma](https://www.linkedin.com/in/divyansh-sharma-b4793026b/)}
 
 A simple machine learning model that classifies input text into emotions like **joy**, **sadness**, **anger**, **fear**, **love**, and **surprise**.
 
