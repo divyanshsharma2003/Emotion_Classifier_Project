@@ -1,5 +1,5 @@
 # Emotion Text Classifier {Trained By - [Divyansh Sharma](https://www.linkedin.com/in/divyansh-sharma-b4793026b/)}
-
+Live - [Emotion-Classifier](https://emotion-classifier01.streamlit.app/)
 A simple machine learning model that classifies input text into emotions like **joy**, **sadness**, **anger**, **fear**, **love**, and **surprise**.
 
 ---
